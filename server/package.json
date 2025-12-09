@@ -1,0 +1,14 @@
+{
+  "name": "assignment13-api",
+  "version": "1.0.0",
+  "description": "Node/Express API for CS648 Assignment 13",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.22"
+  }
+}
